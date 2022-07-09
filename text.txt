@@ -1,0 +1,6 @@
+day la noi dung
+
+--Nhiều người cùng làm việc với nhau trong project
+--1 người làm trên nhiều máy khác nhau
+--Quản lí phiên bản của mã
+--Nhánh
